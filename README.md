@@ -1,0 +1,2 @@
+# SpringMailDemo
+Email generator.
